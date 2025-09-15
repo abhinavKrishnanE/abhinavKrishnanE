@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-💡 What I Do : <br><br>🖥️ Build web applications using Django & Django REST Framework<br><br>🔑 Work on authentication, authorization & multi-tenant systems<br><br>🗄️ Explore database design & optimization (PostgreSQL)<br><br>🎓 Conduct workshops & technical sessions for students and peers<br><br>🌱 Currently exploring Advanced Django ecosystem<br><br>📫 Let’s Connect<br><br>💼 https://www.linkedin.com/in/abhinav-krishnan-e-770627229/<br><br>🌐 Portfolio/Website<br><br>✉️ Reach me at: abhikrishe@gmail.com
+💡 What I Do : <br><br>🖥️ Build web applications using Django & Django REST Framework<br><br>🔑 Work on authentication, authorization & multi-tenant systems<br><br>🗄️ Explore database design & optimization (PostgreSQL)<br><br>🎓 Conduct workshops & technical sessions for students and peers<br><br>🌱 Currently exploring Advanced Django ecosystem<br><br>📫 Let’s Connect<br><br>💼 https://www.linkedin.com/in/abhinav-krishnan-e-770627229/<br><br>✉️ Reach me at: abhikrishe@gmail.com
 
 
 # 💻 Tech Stack:
